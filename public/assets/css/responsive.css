@@ -1,0 +1,156 @@
+@media only screen and (max-device-width: 1400px){
+  .choose_CustomModal .createACT_size{
+    width: 90%;
+    max-width: 90%;
+  }
+}
+@media only screen and (max-device-width: 1200px){
+  .custom_colllamSets {
+    width: 25%;
+  }
+}
+@media only screen and (max-device-width: 992px){
+  .mobile_navbgset {
+    position: absolute;
+    top: 72px;
+    background: #00439d99;
+    z-index: 99;
+    border-radius: 22px;
+    padding: 24px 30px 22px;
+    left: 0;
+    border: 1px solid #00429a;
+    backdrop-filter: blur(3px);
+  }
+  .desk-navlist-main li .items-nav {
+    padding: 12px 13px;
+    display: block;
+    transition: all 0.4s ease;
+    border-radius: 6px;
+    margin-bottom: 4px;
+  }
+  .cstm-chnagebtn.navbar-toggler {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: var(--blue-color);
+    padding: 8px 13px;
+    border-radius: 12px;
+  }
+  .cstm-chnagebtn .navbar-toggler-icon{
+    filter: brightness(30);
+  }
+  .desk-navlist-main li .items-nav.active, .desk-navlist-main li .items-nav:hover{
+    background: #134b97;
+    color: var(--white-color);
+  }
+  .navdesktop-btns,
+  .navdesktop-btns .nav-signin-btn,
+  .navdesktop-btns .nav-Register-btn{
+    width: 100%;
+  }
+  .navdesktop-btns .dropdown-menu{
+    position: relative;
+  }
+}
+
+@media only screen and (max-device-width: 992px){
+  .custom_colllamSets.forview-alumni,
+  .custom_colllamSets {
+    width: 33.33%;
+  }
+  .box_studentSuccess .left_student_pic{
+    width: 100%;
+  }
+  .box_studentSuccess .student_right_contents{
+    width: 100%;
+    padding: 20px 12px;
+  }
+  .slider_success_std .items{
+    margin: 0px 6px;
+  }
+  .border-Set2{
+    border: none;
+  }
+  .left_registerAccounts{
+    margin: 0px;
+  }
+}
+@media only screen and (max-device-width: 770px){
+  .custom_colllamSets.forview-alumni,
+  .custom_colllamSets {
+    width: 50%;
+  }
+  .acoount_modalBody .stepwizard{
+    overflow: auto;
+    display: block;
+  }
+  .acoount_modalBody .stepwizard .stepwizard-row{
+    width: 748px;
+  }
+  .stepwizard-step .steps_line{
+    left: 45px;
+  }
+}
+@media only screen and (max-device-width: 570px){
+  .custom_colllamSets.forview-alumni,
+  .custom_colllamSets {
+    width: 100%;
+  }
+  .coutBorderset{
+    border-right: none;
+    padding-left: 20px;
+  }
+  ._header_banners .alumni_banners {
+    height: 410px;
+  }
+  .inner_benifitsbox {
+    padding: 34px 20px;
+  }
+  .footer_innerMain .linkList li {
+    line-height: 26px;
+  }
+  .footer_innerMain .linkList li a{
+    font-size: 14px;
+  }
+  .choose_CustomModal .choose-size{
+    width: 90%;
+    max-width: 90%;
+  }
+  .left_registerAccounts {
+    padding: 16px 16px;
+  }
+  .comman_inputfield .input_cmn{
+    height: 40px;
+    font-size: 14px;
+  }
+  .sideRight_barboxStudent {
+    height: 320px;
+    padding: 0px;
+    border-radius: 16px;
+  }
+  .sideRight_barboxStudent .student_actPic {
+    width: 80%;
+    height: 297px;
+    object-fit: scale-down;
+  }
+  .choose_CustomModal .createACT_size{
+    width: 94%;
+    max-width: 94%;
+    margin: 12px auto;
+  }
+  .choose_CustomModal .signupACT_size{
+    width: 95%;
+    max-width: 95%;
+    margin: 30px auto;
+  }
+  .mobile_iverflowview{
+    overflow: auto;
+    padding-bottom: 8px;
+  }
+  .mobile_iverflowview .nav-tabs{
+    width: max-content;
+  }
+  .heading_card_st .icon_delBok{
+    visibility: visible;
+  }
+}
